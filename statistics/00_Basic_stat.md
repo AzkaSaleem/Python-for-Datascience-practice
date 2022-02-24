@@ -78,4 +78,3 @@ The __variance__ is 13.84. To get the __standard deviation, you calculate the sq
 - for continous variables (quantitative) use scatter plot etc.
   ___
   ___
-  ---
