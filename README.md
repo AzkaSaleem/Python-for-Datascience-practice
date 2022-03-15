@@ -23,3 +23,11 @@ pandas
 numpy
 case study
 statistics
+EDA
+data wrangling 
+maching learning 
+ML types
+supervised learning
+Regressions
+classifications
+clustering 
